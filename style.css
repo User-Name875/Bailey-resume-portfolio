@@ -71,3 +71,8 @@ a:active {
 a, #game_link {
     color: #0d5dad;
 }
+
+.cert {
+    height: 100px;
+    width: 120px;
+}
