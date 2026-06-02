@@ -79,3 +79,8 @@ a.cert {
 .cert:hover {
     color: #5e666d
 }
+
+.homeImg {
+    width: 250px;
+    height: 150px;
+}
